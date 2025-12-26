@@ -1,4 +1,4 @@
-# 🎨 Telegram Sticker Master Bot (v4.1)
+# 🎨 Telegram Sticker Master Bot (v1.1)
 
 A powerful, all-in-one Telegram bot designed to create and manage sticker sets effortlessly. This bot supports static images, GIFs, and even video files (MP4/MOV/AVI), automatically converting them into the correct Telegram sticker format.
 
@@ -25,7 +25,9 @@ To run this bot, you need:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Telegram-Sticker-Master.git](https://github.com/your-username/Telegram-Sticker-Master.git)
+   git clone 
+   [https://github.com/mhbanaei/StickerFlow-Telegram.git]
+   [git@github.com:mhbanaei/StickerFlow-Telegram.git]
    cd Telegram-Sticker-Master```
    
 2. **Install dependencies:**
