@@ -1,4 +1,4 @@
-# 🎨 Telegram Sticker Master Bot (v1.1)
+# 🎨 Telegram Sticker Master Bot (v1.2)
 
 A powerful, all-in-one Telegram bot designed to create and manage sticker sets effortlessly. This bot supports static images, GIFs, and even video files (MP4/MOV/AVI), automatically converting them into the correct Telegram sticker format.
 
